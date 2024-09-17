@@ -24,7 +24,7 @@ Forget Vault is a secure and easy-to-use password manager built with React, Expr
    Run the following commands to install all necessary dependencies:
    ```bash
    npm i
-   npm i express mongoose react-toastify react-router-dom cors nodemailer react-hook-form autoprefixer
+   npm i express mongoose react-toastify react-router-dom cors nodemailer react-hook-form autoprefixer react-tooltip
    npm install -D tailwindcss
    npx tailwindcss -p
    ```
