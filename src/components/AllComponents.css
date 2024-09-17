@@ -1,0 +1,6 @@
+@media screen and (max-width: 460px) {
+    .options{
+        flex-direction: column-reverse;
+        row-gap: 10px;
+    }
+}
